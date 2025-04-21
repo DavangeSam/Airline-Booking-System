@@ -25,6 +25,13 @@ A full-stack web application to search and book flights. The system includes bac
 
 ### SCREENSHOTS
 
+![book](https://github.com/DavangeSam/Airline-Booking-System/blob/main/book.png?raw=true)
+
+![flight](https://github.com/DavangeSam/Airline-Booking-System/blob/main/flight.png?raw=true)
+
+![save](https://github.com/DavangeSam/Airline-Booking-System/blob/main/save.png?raw=true)
+
+![server](https://github.com/DavangeSam/Airline-Booking-System/blob/main/server.png?raw=true)
 
 ### Setup Instructions
 🔧 Prerequisites
